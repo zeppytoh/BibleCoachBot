@@ -1,0 +1,6 @@
+lib/
+shadow.py
+*.swp
+*.pyc
+favicon.ico
+.idea/
